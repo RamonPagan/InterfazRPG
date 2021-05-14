@@ -1,3 +1,3 @@
 # InterfazRPG
 Proyecto final programación.
-Mi proyecto estará basado en la interfaz de venta de la cafetería de mi tio: Te y Café Museo.
+Mi proyecto estará basado en la interfaz de venta/alquiler de vinilos o discos de música.
